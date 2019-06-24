@@ -1,0 +1,8 @@
+md5: 02325f67b995d938aeadc012d9812d68
+wdir: .
+outs:
+- md5: 24b9bdb839e5220059121aed1b6152b3
+  path: test.txt
+  cache: true
+  metric: false
+  persist: false

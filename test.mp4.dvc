@@ -1,0 +1,8 @@
+md5: fa32a5a17fcc129c56426795c4e191ed
+wdir: .
+outs:
+- md5: f559b39949a91340e8ed74c6a1156864
+  path: test.mp4
+  cache: true
+  metric: false
+  persist: false
